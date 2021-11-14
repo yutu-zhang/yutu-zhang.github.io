@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://tuyustar.cn</id>
     <title>The course of true love never did run smooth. • Posts by &#34;git&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="http://tuyustar.cn" />
     <updated>2020-12-19T12:30:36.000Z</updated>
-    <category term="JWT" />
     <category term="Celery" />
+    <category term="JWT" />
     <category term="序列化器" />
-    <category term="生产环境部署" />
     <category term="ORM" />
+    <category term="生产环境部署" />
     <category term="PayPal" />
     <category term="Wechat" />
     <category term="vue生命周期" />
@@ -19,12 +19,12 @@
     <category term="jwt" />
     <category term="OAuth2.0" />
     <category term="SQL" />
-    <category term="WebSocket" />
     <category term="Docker" />
+    <category term="WebSocket" />
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</id>
         <title>Git基本命令</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/"/>
         <content type="html">&lt;h1 id=&#34;仓库&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#仓库&#34;&gt;#&lt;/a&gt; 仓库&lt;/h1&gt;
 &lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git init			# 初始化&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git clone url			# 下载一个项目&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;查看信息&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#查看信息&#34;&gt;#&lt;/a&gt; 查看信息&lt;/h1&gt;
 &lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git status			# 查看文件状态&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;增加删除文件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#增加删除文件&#34;&gt;#&lt;/a&gt; 增加 / 删除文件&lt;/h1&gt;

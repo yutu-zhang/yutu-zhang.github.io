@@ -2,16 +2,16 @@
 <rss version="2.0">
     <channel>
         <title>The course of true love never did run smooth. • Posts by &#34;生产环境部署&#34; tag</title>
-        <link>http://example.com</link>
+        <link>http://tuyustar.cn</link>
         <description>不知道写啥</description>
         <language>zh</language>
         <pubDate>Fri, 04 Dec 2020 22:01:03 +0800</pubDate>
         <lastBuildDate>Fri, 04 Dec 2020 22:01:03 +0800</lastBuildDate>
-        <category>JWT</category>
         <category>Celery</category>
+        <category>JWT</category>
         <category>序列化器</category>
-        <category>生产环境部署</category>
         <category>ORM</category>
+        <category>生产环境部署</category>
         <category>PayPal</category>
         <category>Wechat</category>
         <category>vue生命周期</category>
@@ -22,12 +22,12 @@
         <category>jwt</category>
         <category>OAuth2.0</category>
         <category>SQL</category>
-        <category>WebSocket</category>
         <category>Docker</category>
+        <category>WebSocket</category>
         <item>
-            <guid isPermalink="true">http://example.com/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</guid>
+            <guid isPermalink="true">http://tuyustar.cn/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</guid>
             <title>Django + Uwsgi + Nginx 的生产环境部署</title>
-            <link>http://example.com/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</link>
+            <link>http://tuyustar.cn/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</link>
             <category>生产环境部署</category>
             <pubDate>Fri, 04 Dec 2020 22:01:03 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;django&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#django&#34;&gt;#&lt;/a&gt; Django&lt;/h2&gt;

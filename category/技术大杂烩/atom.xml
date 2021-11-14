@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://tuyustar.cn</id>
     <title>The course of true love never did run smooth. • Posts by &#34;技术大杂烩&#34; category</title>
-    <link href="http://example.com" />
+    <link href="http://tuyustar.cn" />
     <updated>2020-12-24T02:48:55.000Z</updated>
-    <category term="JWT" />
     <category term="Celery" />
+    <category term="JWT" />
     <category term="序列化器" />
-    <category term="生产环境部署" />
     <category term="ORM" />
+    <category term="生产环境部署" />
     <category term="PayPal" />
     <category term="Wechat" />
     <category term="vue生命周期" />
@@ -19,12 +19,12 @@
     <category term="jwt" />
     <category term="OAuth2.0" />
     <category term="SQL" />
-    <category term="WebSocket" />
     <category term="Docker" />
+    <category term="WebSocket" />
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/WebSocket-%E5%85%A8%E5%8F%8C%E5%B7%A5%E9%80%9A%E4%BF%A1%E7%9A%84%E5%8D%8F%E8%AE%AE/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/WebSocket-%E5%85%A8%E5%8F%8C%E5%B7%A5%E9%80%9A%E4%BF%A1%E7%9A%84%E5%8D%8F%E8%AE%AE/</id>
         <title>WebSocket--全双工通信协议</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/WebSocket-%E5%85%A8%E5%8F%8C%E5%B7%A5%E9%80%9A%E4%BF%A1%E7%9A%84%E5%8D%8F%E8%AE%AE/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/WebSocket-%E5%85%A8%E5%8F%8C%E5%B7%A5%E9%80%9A%E4%BF%A1%E7%9A%84%E5%8D%8F%E8%AE%AE/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;WebSocket&lt;/code&gt;  是一种在单个 &lt;code&gt;TCP&lt;/code&gt;  连接上进行全双工通信的协议.&lt;/p&gt;
@@ -123,9 +123,9 @@
         <updated>2020-12-24T02:48:55.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/ECharts-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%BA%93/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/ECharts-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%BA%93/</id>
         <title>ECharts--数据可视化库</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/ECharts-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%BA%93/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/ECharts-%E6%95%B0%E6%8D%AE%E5%8F%AF%E8%A7%86%E5%8C%96%E5%BA%93/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;ECharts&lt;/code&gt; ，一个使用  &lt;code&gt;JavaScript&lt;/code&gt;  实现的 &lt;code&gt;开源可视化库&lt;/code&gt; ，可以流畅的运行在 PC 和移动设备上，兼容当前绝大部分浏览器（IE8/9/10/11，Chrome，Firefox，Safari 等），底层依赖矢量图形库 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2Vjb21mZS96cmVuZGVy&#34;&gt;ZRender&lt;/span&gt;，提供直观，交互丰富，可高度个性化定制的数据可视化图表。&lt;/p&gt;
@@ -163,9 +163,9 @@
         <updated>2020-12-22T15:26:23.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RBAC-%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RBAC-%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/</id>
         <title>RBAC--权限控制</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RBAC-%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RBAC-%E6%9D%83%E9%99%90%E6%8E%A7%E5%88%B6/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;RBAC 是基于角色的访问控制（Role-Based Access Control ）&lt;/code&gt; 在 RBAC 中，权限与角色相关联，用户通过成为适当角色的成员而得到这些角色的权限。这就极大地简化了权限的管理。这样管理都是层级相互依赖的，权限赋予给角色，而把角色又赋予用户，这样的权限设计很清楚，管理起来很方便。&lt;/p&gt;
@@ -190,9 +190,9 @@
         <updated>2020-12-21T12:41:10.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/</id>
         <title>Git基本命令</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Git%E5%9F%BA%E6%9C%AC%E5%91%BD%E4%BB%A4/"/>
         <content type="html">&lt;h1 id=&#34;仓库&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#仓库&#34;&gt;#&lt;/a&gt; 仓库&lt;/h1&gt;
 &lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git init			# 初始化&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git clone url			# 下载一个项目&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;查看信息&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#查看信息&#34;&gt;#&lt;/a&gt; 查看信息&lt;/h1&gt;
 &lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git status			# 查看文件状态&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;增加删除文件&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#增加删除文件&#34;&gt;#&lt;/a&gt; 增加 / 删除文件&lt;/h1&gt;
@@ -203,9 +203,9 @@
         <updated>2020-12-19T12:30:36.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Docker-Desktop%E4%BD%BF%E7%94%A8Mysql%E3%80%81Redis/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Docker-Desktop%E4%BD%BF%E7%94%A8Mysql%E3%80%81Redis/</id>
         <title>Docker_Desktop使用Mysql、Redis</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Docker-Desktop%E4%BD%BF%E7%94%A8Mysql%E3%80%81Redis/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/Docker-Desktop%E4%BD%BF%E7%94%A8Mysql%E3%80%81Redis/"/>
         <content type="html">&lt;h1 id=&#34;docker-desktop使用mysql&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#docker-desktop使用mysql&#34;&gt;#&lt;/a&gt; Docker Desktop 使用 Mysql&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;拉取镜像&lt;/li&gt;
@@ -233,9 +233,9 @@
         <updated>2020-12-05T01:29:08.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/%E5%9C%A8Ubuntu%E4%B8%AD%E5%AE%89%E8%A3%85Docker%E5%92%8Cdocker%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/%E5%9C%A8Ubuntu%E4%B8%AD%E5%AE%89%E8%A3%85Docker%E5%92%8Cdocker%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
         <title>Ubuntu安装Docker和docker的使用</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/%E5%9C%A8Ubuntu%E4%B8%AD%E5%AE%89%E8%A3%85Docker%E5%92%8Cdocker%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/%E5%9C%A8Ubuntu%E4%B8%AD%E5%AE%89%E8%A3%85Docker%E5%92%8Cdocker%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
         <content type="html">&lt;h1 id=&#34;docker-概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#docker-概述&#34;&gt;#&lt;/a&gt; Docker 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;Docker &lt;/code&gt; 是一个开源的应用容器引擎，基于 &lt;code&gt;Go语言&lt;/code&gt; 并遵从 Apache2.0 协议开源。&lt;/p&gt;
@@ -393,9 +393,9 @@
         <updated>2020-12-01T02:58:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/SQL-%E4%B8%80%E5%88%87%E7%9A%86%E5%85%B3%E7%B3%BB/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/SQL-%E4%B8%80%E5%88%87%E7%9A%86%E5%85%B3%E7%B3%BB/</id>
         <title>SQL--一切皆关系</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/SQL-%E4%B8%80%E5%88%87%E7%9A%86%E5%85%B3%E7%B3%BB/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/SQL-%E4%B8%80%E5%88%87%E7%9A%86%E5%85%B3%E7%B3%BB/"/>
         <content type="html">&lt;h1 id=&#34;sql一切皆关系&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#sql一切皆关系&#34;&gt;#&lt;/a&gt; SQL–一切皆关系&lt;/h1&gt;
 &lt;p&gt;&lt;img data-src=&#34;1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;在计算机领域有许多伟大的设计理念和思想，例如：&lt;/p&gt;
@@ -496,9 +496,9 @@
         <updated>2020-11-17T12:12:50.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/JWT/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/JWT/</id>
         <title>JWT--JSON WEB TOKEN</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/JWT/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/JWT/"/>
         <content type="html">&lt;h1 id=&#34;json-web-token&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#json-web-token&#34;&gt;#&lt;/a&gt; Json Web Token&lt;/h1&gt;
 &lt;h3 id=&#34;什么是jwt&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#什么是jwt&#34;&gt;#&lt;/a&gt; 什么是 JWT&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -616,9 +616,9 @@
         <updated>2020-04-12T11:39:37.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/</id>
         <title>OAuth2.0的四种授权模式</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/"/>
         <content type="html">&lt;h1 id=&#34;oauth20-为何物&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#oauth20-为何物&#34;&gt;#&lt;/a&gt; &lt;strong&gt;OAuth2.0 为何物&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;OAuth&lt;/code&gt;  简单理解就是一种授权机制，它是在客户端和资源所有者之间的授权层，用来分离两种不同的角色。在资源所有者同意并向客户端颁发令牌后，客户端携带令牌可以访问资源所有者的资源。&lt;br&gt;
  &lt;code&gt;OAuth2.0&lt;/code&gt;  是 &lt;code&gt;OAuth&lt;/code&gt;  协议的一个版本，有 &lt;code&gt;2.0&lt;/code&gt;  版本那就有 &lt;code&gt;1.0&lt;/code&gt;  版本，有意思的是 &lt;code&gt;OAuth2.0&lt;/code&gt;  却不向下兼容 &lt;code&gt;OAuth1.0&lt;/code&gt;  ，相当于废弃了 &lt;code&gt;1.0&lt;/code&gt;  版本。&lt;/p&gt;
@@ -691,9 +691,9 @@
         <updated>2020-04-08T02:40:53.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RESTfulAPI%E8%A7%84%E8%8C%83/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RESTfulAPI%E8%A7%84%E8%8C%83/</id>
         <title>RESTful API设计规范</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RESTfulAPI%E8%A7%84%E8%8C%83/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/RESTfulAPI%E8%A7%84%E8%8C%83/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;RESTful 是目前最流行的 API 设计规范，用于 Web 数据接口的设计。&lt;/p&gt;

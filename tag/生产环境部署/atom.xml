@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://tuyustar.cn</id>
     <title>The course of true love never did run smooth. • Posts by &#34;生产环境部署&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="http://tuyustar.cn" />
     <updated>2020-12-04T14:01:03.000Z</updated>
-    <category term="JWT" />
     <category term="Celery" />
+    <category term="JWT" />
     <category term="序列化器" />
-    <category term="生产环境部署" />
     <category term="ORM" />
+    <category term="生产环境部署" />
     <category term="PayPal" />
     <category term="Wechat" />
     <category term="vue生命周期" />
@@ -19,12 +19,12 @@
     <category term="jwt" />
     <category term="OAuth2.0" />
     <category term="SQL" />
-    <category term="WebSocket" />
     <category term="Docker" />
+    <category term="WebSocket" />
     <entry>
-        <id>http://example.com/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</id>
+        <id>http://tuyustar.cn/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/</id>
         <title>Django + Uwsgi + Nginx 的生产环境部署</title>
-        <link rel="alternate" href="http://example.com/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
+        <link rel="alternate" href="http://tuyustar.cn/Django%E6%A1%86%E6%9E%B6/Django-%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2/"/>
         <content type="html">&lt;h2 id=&#34;django&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#django&#34;&gt;#&lt;/a&gt; Django&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;code&gt;Django&lt;/code&gt;  是一个 &lt;code&gt;Web框架&lt;/code&gt; ，框架的作用在于处理 &lt;code&gt;request&lt;/code&gt;  和 &lt;code&gt;reponse&lt;/code&gt; ，其他的不是框架所关心的内容。&lt;/p&gt;

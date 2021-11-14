@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://tuyustar.cn</id>
     <title>The course of true love never did run smooth. • Posts by &#34;wechat&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="http://tuyustar.cn" />
     <updated>2020-12-27T08:35:04.000Z</updated>
-    <category term="JWT" />
     <category term="Celery" />
+    <category term="JWT" />
     <category term="序列化器" />
-    <category term="生产环境部署" />
     <category term="ORM" />
+    <category term="生产环境部署" />
     <category term="PayPal" />
     <category term="Wechat" />
     <category term="vue生命周期" />
@@ -19,12 +19,12 @@
     <category term="jwt" />
     <category term="OAuth2.0" />
     <category term="SQL" />
-    <category term="WebSocket" />
     <category term="Docker" />
+    <category term="WebSocket" />
     <entry>
-        <id>http://example.com/Django%E6%A1%86%E6%9E%B6/wechat-%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98/</id>
+        <id>http://tuyustar.cn/Django%E6%A1%86%E6%9E%B6/wechat-%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98/</id>
         <title>Wechat--扫码支付</title>
-        <link rel="alternate" href="http://example.com/Django%E6%A1%86%E6%9E%B6/wechat-%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98/"/>
+        <link rel="alternate" href="http://tuyustar.cn/Django%E6%A1%86%E6%9E%B6/wechat-%E6%89%AB%E7%A0%81%E6%94%AF%E4%BB%98/"/>
         <content type="html">&lt;h1 id=&#34;概述&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#概述&#34;&gt;#&lt;/a&gt; 概述&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;在生活中真正具有广泛性、高效性、使用方便性的支付方式还得是扫码支付，扫码的优点在于推广成本低，上至钓鱼台国宾馆，下至发廊地摊都能用，打印出来就完事了，而相比其他支付方式，现金的找零及假钞问题，信用卡的办理门槛、pos 机的沉没成本，所以基于二维码的扫码支付的确是非常符合国情的。&lt;/p&gt;

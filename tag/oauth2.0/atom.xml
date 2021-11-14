@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://tuyustar.cn</id>
     <title>The course of true love never did run smooth. • Posts by &#34;oauth2.0&#34; tag</title>
-    <link href="http://example.com" />
+    <link href="http://tuyustar.cn" />
     <updated>2020-04-08T02:40:53.000Z</updated>
-    <category term="JWT" />
     <category term="Celery" />
+    <category term="JWT" />
     <category term="序列化器" />
-    <category term="生产环境部署" />
     <category term="ORM" />
+    <category term="生产环境部署" />
     <category term="PayPal" />
     <category term="Wechat" />
     <category term="vue生命周期" />
@@ -19,12 +19,12 @@
     <category term="jwt" />
     <category term="OAuth2.0" />
     <category term="SQL" />
-    <category term="WebSocket" />
     <category term="Docker" />
+    <category term="WebSocket" />
     <entry>
-        <id>http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/</id>
+        <id>http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/</id>
         <title>OAuth2.0的四种授权模式</title>
-        <link rel="alternate" href="http://example.com/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/"/>
+        <link rel="alternate" href="http://tuyustar.cn/%E6%8A%80%E6%9C%AF%E5%A4%A7%E6%9D%82%E7%83%A9/OAuth2-0%E7%9A%84%E5%9B%9B%E7%A7%8D%E6%8E%88%E6%9D%83%E6%A8%A1%E5%BC%8F/"/>
         <content type="html">&lt;h1 id=&#34;oauth20-为何物&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#oauth20-为何物&#34;&gt;#&lt;/a&gt; &lt;strong&gt;OAuth2.0 为何物&lt;/strong&gt;&lt;/h1&gt;
 &lt;p&gt;&lt;code&gt;OAuth&lt;/code&gt;  简单理解就是一种授权机制，它是在客户端和资源所有者之间的授权层，用来分离两种不同的角色。在资源所有者同意并向客户端颁发令牌后，客户端携带令牌可以访问资源所有者的资源。&lt;br&gt;
  &lt;code&gt;OAuth2.0&lt;/code&gt;  是 &lt;code&gt;OAuth&lt;/code&gt;  协议的一个版本，有 &lt;code&gt;2.0&lt;/code&gt;  版本那就有 &lt;code&gt;1.0&lt;/code&gt;  版本，有意思的是 &lt;code&gt;OAuth2.0&lt;/code&gt;  却不向下兼容 &lt;code&gt;OAuth1.0&lt;/code&gt;  ，相当于废弃了 &lt;code&gt;1.0&lt;/code&gt;  版本。&lt;/p&gt;
